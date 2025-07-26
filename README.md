@@ -9,7 +9,6 @@ This project builds a machine learning model to predict creditworthiness using t
 ├── data_preparation.py     # Data cleaning and preprocessing functions
 ├── credit_scoring_model.py # Model training and evaluation script
 ├── model.pkl               # Trained machine learning model
-├── scaler.pkl              # Fitted StandardScaler for test data preprocessing
 ├── lendingclub_raw.csv     # Original raw dataset
 ├── lendingclub_test_data.csv # Processed test dataset
 ├── README.md               # Project documentation (this file)
